@@ -40,10 +40,11 @@ html[xmlns] .clearfix{display:block;}
 * html .clearfix{height:1%;}
 
 .clearfix{*zoom: 1;}
-.clearfix:after{clear:both;display:table;content:"”;}
+.clearfix:after{clear:both;display:table;content:"";}
 
 .clearfix{overflow:hidden;_zoom:1;}
 ```
+
 [http://www.daqianduan.com/3606.html](http://www.daqianduan.com/3606.html)
 
 - seperate-table
@@ -85,7 +86,6 @@ font-family:"Hiragino Sans GB","Hiragino Sans GB W3",'微软雅黑';
 ```
 
 #### 2. css 3
-
 - 投影
 ```css
 .b{box-shadow:inset 1px -1px 0 #f1f1f1;text-shadow:1px 1px 0px #630;}
@@ -93,6 +93,7 @@ filter:progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='
 
 background:rgba(0,0,0,0.5);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#50000000',endColorstr='#50000000')\9;
 ```
+
 - [search占位](http://www.qianduan.net/search-box-style-custom-webkit.html)
 ```css
 ::-webkit-input-placeholder {}
