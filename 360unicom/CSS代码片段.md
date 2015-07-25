@@ -47,7 +47,8 @@ html[xmlns] .clearfix{display:block;}
 .clearfix{overflow:hidden;_zoom:1;}
 ```
 
-[http://www.daqianduan.com/3606.html](http://www.daqianduan.com/3606.html)
+> [http://www.cnblogs.com/blog-leo/p/3959217.html](http://www.cnblogs.com/blog-leo/p/3959217.html)
+> [http://www.daqianduan.com/3606.html](http://www.daqianduan.com/3606.html)
 
 - seperate-table
 
@@ -301,4 +302,4 @@ user-select:none;
 </div>
 ```
 
-
+- [居中](http://www.cnblogs.com/blog-leo/p/4377362.html)
