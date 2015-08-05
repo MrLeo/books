@@ -10,7 +10,7 @@
 
 * [规范](standard/README.md)
 	* [开发规范](standard/开发规范.md) 
-	* [开发规范-C#](standard/开发规范-C#.md)
+	* [开发规范-C#](standard/开发规范-csharp.md)
 	* [开发规范-Java](standard/开发规范-java.md)  
 	* [开发规范-前端](standard/开发规范-前端.md) 
 	* [开发规范-数据库](standard/开发规范-数据库.md) 
