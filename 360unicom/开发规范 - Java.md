@@ -5,7 +5,34 @@
 ---
 
 # 注释
+- Java 类 注释
+``` java
+/** 
+ * 类名称：CheckUserController
+ * 创建人：lilei
+ * 创建时间：2015-05-23
+ */
+@Controller
+@RequestMapping(value="/checkuser")
+public class CheckUserController extends BaseController {
+	//代码
+}
+```	
+
 - Java 方法 注释
+``` java
+/**
+ * 处理VIP邀请码利率
+ * @param inviteCode 邀请码
+ * @param zfUser 当前用户
+ * @return 利率
+ * @throws Exception 
+ */
+public BigDecimal operationVipInviteRate(String inviteCode,ZFUser zfUser) throws Exception{
+	//代码
+}
+
+```
 
 - Java Enumerate / Model 注释
 
