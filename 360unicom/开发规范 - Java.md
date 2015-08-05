@@ -5,6 +5,20 @@
 ---
 
 # 注释
+- Java 类 注释
+``` java
+/** 
+ * 类名称：CheckUserController
+ * 创建人：lilei
+ * 创建时间：2015-05-23
+ */
+@Controller
+@RequestMapping(value="/checkuser")
+public class CheckUserController extends BaseController {
+	//代码
+}
+```	
+
 - Java 方法 注释
 ``` java
 /**
