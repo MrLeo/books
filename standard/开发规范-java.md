@@ -5,8 +5,8 @@
 ---
 
 # 注释
-- Java 类 注释
-``` java
+- 类 注释
+```java
 /** 
  * 类名称：CheckUserController
  * 创建人：lilei
@@ -19,8 +19,8 @@ public class CheckUserController extends BaseController {
 }
 ```	
 
-- Java 方法 注释
-``` java
+- 方法 注释
+```java
 /**
  * 处理VIP邀请码利率
  * @param inviteCode 邀请码
@@ -31,10 +31,9 @@ public class CheckUserController extends BaseController {
 public BigDecimal operationVipInviteRate(String inviteCode,ZFUser zfUser) throws Exception{
 	//代码
 }
-
 ```
 
-- Java Enumerate / Model 注释
+- Enumerate / Model 注释
 
 
 # JavaFrameWork - Java框架规范
