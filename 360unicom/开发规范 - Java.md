@@ -22,15 +22,15 @@ public class CheckUserController extends BaseController {
 - Java 方法 注释
 ``` java
 /**
-	 * 处理VIP邀请码利率
-	 * @param inviteCode 邀请码
-	 * @param zfUser 当前用户
-	 * @return 利率
-	 * @throws Exception 
-	 */
-	public BigDecimal operationVipInviteRate(String inviteCode,ZFUser zfUser) throws Exception{
-		//代码
-	}
+ * 处理VIP邀请码利率
+ * @param inviteCode 邀请码
+ * @param zfUser 当前用户
+ * @return 利率
+ * @throws Exception 
+ */
+public BigDecimal operationVipInviteRate(String inviteCode,ZFUser zfUser) throws Exception{
+	//代码
+}
 
 ```
 
