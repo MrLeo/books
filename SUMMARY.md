@@ -13,3 +13,4 @@
 	* [Web前端资源](resource/Web前端.md) 
 	* [CSS代码片段](resource/CSS代码片段.md)
 	* [JS代码片段](resource/JS代码片段.md)
+	* [HBuilder](resource/HBuilder.md)
