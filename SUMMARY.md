@@ -14,3 +14,5 @@
 	* [CSS代码片段](resource/CSS代码片段.md)
 	* [JS代码片段](resource/JS代码片段.md)
 	* [HBuilder](resource/HBuilder.md)
+* [后端资源](resource2/README.md)
+	* [JAVA代码片段](resource2/java.md)
