@@ -1,6 +1,7 @@
 # Summary
 
 * [关于我](http:/mrleo.github.io/blog/resume.html)
+* [博客园地址](http:/www.cnblogs.com/blog-leo)
 * [GitHub地址](https:/github.com/MrLeo/books)
 * [说明](README.md)
 * [规范](standard/README.md)
@@ -17,5 +18,4 @@
    * [HBuilder](resource/HBuilder.md)
 * [后端资源](resource2/README.md)
    * [JAVA代码片段](resource2/java.md)
-* [博客园地址](http:/www.cnblogs.com/blog-leo)
 
