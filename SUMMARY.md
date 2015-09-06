@@ -1,7 +1,7 @@
 # Summary
 
-* [说明](README.md)
 * [GitHub地址](https:/github.com/MrLeo/books)
+* [说明](README.md)
 * [规范](standard/README.md)
    * [开发规范](standard/开发规范.md)
    * [开发规范-前端](standard/开发规范-前端.md)
