@@ -1,6 +1,7 @@
 # Summary
 
 * [说明](README.md)
+* [GitHub地址](https:/github.com/MrLeo/books)
 * [规范](standard/README.md)
    * [开发规范](standard/开发规范.md)
    * [开发规范-前端](standard/开发规范-前端.md)
@@ -15,5 +16,4 @@
    * [HBuilder](resource/HBuilder.md)
 * [后端资源](resource2/README.md)
    * [JAVA代码片段](resource2/java.md)
-* [GitHub地址](https://github.com/MrLeo/books)
 
