@@ -15,5 +15,5 @@
    * [HBuilder](resource/HBuilder.md)
 * [后端资源](resource2/README.md)
    * [JAVA代码片段](resource2/java.md)
-* GitHub地址
+* [GitHub地址](githubdi_zhi.md)
 
