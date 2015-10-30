@@ -11,11 +11,12 @@
    * [开发规范-Java](standard/开发规范-java.md)
    * [开发规范-数据库](standard/开发规范-数据库.md)
    * [服务器部署须知](standard/项目部署须知.md)
-* [资源](resource/README.md)
+* [前端资源](resource/README.md)
    * [Web前端资源](resource/Web前端.md)
    * [CSS代码片段](resource/CSS代码片段.md)
    * [JS代码片段](resource/JS代码片段.md)
    * [HBuilder](resource/HBuilder.md)
+   * [H5+CSS5学习](resource/H5+CSS3.md)
 * [后端资源](resource2/README.md)
    * [JAVA代码片段](resource2/java.md)
 
