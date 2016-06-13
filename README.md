@@ -1,5 +1,5 @@
 # Welcome
-# This is Mr. Leo's [GitBook](http://mrleo.gitbooks.io/books/content/)
+# This is Mr. Leo's [GitBook](https://www.gitbook.com/@mrleo)
 [GitHub Source Address](https://github.com/MrLeo/books.git)
 
 ***
