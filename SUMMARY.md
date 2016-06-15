@@ -1,6 +1,5 @@
 # Summary
 
-* [关于我](http:/mrleo.github.io/blog/resume.html)
 * [博客园地址](http:/www.cnblogs.com/blog-leo)
 * [GitHub地址](https://github.com/MrLeo)
 * [说明](README.md)
