@@ -19,4 +19,8 @@
   * [H5+CSS5学习](resource/H5+CSS3.md)
 * [后端资源](resource2/README.md)
   * [JAVA代码片段](resource2/java.md)
-
+* [翻墙](other/README.md)
+  * [为什么翻墙](other/why.md)
+  * [现在比较流行的翻墙方式](other/how.md)
+  * [Hosts](other/hosts.md)
+  * [Shadowsocks](other/shadowsocks.md)
