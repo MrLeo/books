@@ -21,8 +21,11 @@
 
 > 每次手动替换失效hosts比较麻烦，也可以使用下面的自动更新脚本进行修改，但是hosts文件一定要有读写权限
 
-[Update Hosts 下载](updateHosts.zip)  : *使用的hosts源是`racaljk.hosts`可替换，替换方法请移步[官网](https://github.com/ladder1984/updateHosts)*
+[Update Hosts 下载](https://github.com/MrLeo/highsheng/raw/master/updateHosts.zip)  : *使用的hosts源是`racaljk.hosts`可替换，替换方法请移步[官网](https://github.com/ladder1984/updateHosts)*
 
 - 使用的时候只需要 **双击** `start.vbs` 文件即可完成自动更新。
+
 - 如果想让 hosts 始终保持最新，可以 **双击** `addToStartup.js` 将此脚本加入到启动项，开机状态下每隔1小时会自动获取一次
+
+  ​
   ![](../_image/gfw/2016-06-27 14-03-26.jpg)
