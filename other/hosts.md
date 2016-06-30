@@ -1,4 +1,4 @@
-# Hosts翻墙
+# Hosts
 
 > Hosts不是长久有效的，如发现访问不了则需更新最新的Hosts。
 > Hosts更新后打开浏览器访问[https://www.google.com/ncr](https://www.google.com/ncr),刚替换完有可能还是无法访问，此时需要清除缓存多刷新几次。
