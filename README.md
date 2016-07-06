@@ -23,7 +23,11 @@
   * [HBuilder](resource/HBuilder.md)
 * [后端资源](resource2/README.md)
   * [JAVA代码片段](resource2/java.md)
-
+* [科学上网](other/README.md)
+  * [为什么要科学上网](other/why.md)
+  * [现在比较流行的方式](other/how.md)
+    * [Hosts](other/hosts.md)
+    * [Shadowsocks](other/shadowsocks.md)
 
 ****
 
