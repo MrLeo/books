@@ -1,43 +1,43 @@
 # 嵌套选择器
 
-> [参考](参考)
-
-
-1. 使用(2/4)空格代表缩进，而不是使用tab键
-2. 理想上，每行保持为80个字符宽度
-3. 正确书写多行CSS规则
-4. 有意义的使用空格、换行
-   ```css
-   // Yep
-   .foo {
-     display: block;
-     overflow: hidden;
-     padding: 0 1em;
-   }
-
-   // Nope
-   .foo {
-       display: block; overflow: hidden;
-
-       padding: 0 1em;
-   }
-   ```
+**应该尽可能避免选择器嵌套。**
 
 
 
+## 例外
 
-# 编码
+在最外层选择器中嵌套伪类和伪元素是被允许，也是受推荐的。
+```scss
+.foo {
+  color: red;
 
-为了避免潜在的字符编码问题，强力建议在入口文件中通过 `@charset` 指令使用 **UTF-8** 编码格式。请确保该指令是文件的第一条语句，并排除其他字符编码声明。
-```css
-@charset 'utf-8';
+  &:hover {
+    color: green;
+  }
+
+  &::before {
+    content: 'pseudo-element';
+  }
+}
 ```
+使用选择器嵌套选择伪类和伪元素不仅仅有道理的（因为它的处理功能与选择器紧密相关），而且有助于保持总体的一致性。
+当然，如果使用类似 .is-active 类名来控制当前选择器状态，也可以这样使用选择器嵌套。
+```scss
+.foo {
+  // ...
 
+  &.is-active {
+    font-weight: bold;
+  }
+}
+```
+这并不是最重要的，当一个元素的样式在另一个容器中有其他指定的样式时，可以使用嵌套选择器让他们保持在同一个地方。
+```scss
+.foo {
+  // ...
 
-
-
-
-
-
-
-[^参考]: http://www.kancloud.cn/kancloud/sass-guidelin/48096 
+  .no-opacity & {
+    display: none;
+  }
+}
+```

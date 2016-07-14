@@ -1,43 +1,41 @@
 # 列表
 
-> [参考](参考)
+列表需要遵守以下规范：
 
+- 除非列表太长不能写在 80 字符宽度的单行中，否则应该始终单行显示；
+- 除非适用于 CSS，否则应该始终使用逗号作为分隔符；
+- 要么使用内联形式，要么使用多行形式；
+- 始终使用括号包裹；
+- 始终不要添加尾部的逗号。
+```scss
+// Yep
+$font-stack: ('Helvetica', 'Arial', sans-serif);
 
-1. 使用(2/4)空格代表缩进，而不是使用tab键
-2. 理想上，每行保持为80个字符宽度
-3. 正确书写多行CSS规则
-4. 有意义的使用空格、换行
-   ```css
-   // Yep
-   .foo {
-     display: block;
-     overflow: hidden;
-     padding: 0 1em;
-   }
+// Yep
+$font-stack: (
+  'Helvetica',
+  'Arial',
+  sans-serif
+);
 
-   // Nope
-   .foo {
-       display: block; overflow: hidden;
+// Nope
+$font-stack: 'Helvetica' 'Arial' sans-serif;
 
-       padding: 0 1em;
-   }
-   ```
+// Nope
+$font-stack: 'Helvetica', 'Arial', sans-serif;
 
-
-
-
-# 编码
-
-为了避免潜在的字符编码问题，强力建议在入口文件中通过 `@charset` 指令使用 **UTF-8** 编码格式。请确保该指令是文件的第一条语句，并排除其他字符编码声明。
-```css
-@charset 'utf-8';
+// Nope
+$font-stack: ('Helvetica', 'Arial', sans-serif,);
 ```
 
+当需要给列表添加一个新列表项时，请遵守其提供的 API，不要试图手动给列表添加列表项。
 
+```scss
+$shadows: (0 42px 13.37px hotpink);
 
+// Yep
+$shadows: append($shadows, $shadow, comma);
 
-
-
-
-
-[^参考]: http://www.kancloud.cn/kancloud/sass-guidelin/48096 
+// Nope
+$shadows: $shadows, $shadow;
+```
