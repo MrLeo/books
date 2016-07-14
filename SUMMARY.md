@@ -9,7 +9,6 @@
   * [CSS / SCSS](standard/CSS.md)
     * [字符串](CSS - 字符串.md)
     * [数字](CSS - 数字.md)
-    * [运算](CSS - 运算.md)
   * [HTML](standard/HTML.md)
   * [JavaScript](standard/JavaScript.md)
   * [C#](standard/csharp.md)
