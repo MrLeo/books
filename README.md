@@ -1,37 +1,15 @@
-# Welcome
-# This is Mr. Leo's [GitBook](https://www.gitbook.com/@mrleo)
-[GitHub Source Address](https://github.com/MrLeo/books.git)
+# [Mr. Leo's Book](https://mrleo.gitbooks.io/books/content/)
 
-***
 
-[Mr. Leo's GitHub](https://github.com/MrLeo)
+[Source Address](https://github.com/MrLeo/books.git)
 
----
+[我的 GitHub 主页](https://github.com/MrLeo)
 
-* [规范](standard/README.md)
-  * [开发规范](standard/开发规范.md) 
-  * [接口规范](standard/接口规范.md)
-  * [开发规范-C#](standard/开发规范-csharp.md)
-  * [开发规范-Java](standard/开发规范-java.md)  
-  * [开发规范-前端](standard/开发规范-前端.md) 
-  * [开发规范-数据库](standard/开发规范-数据库.md) 
-  * [服务器部署须知](standard/项目部署须知.md)
-* [前端资源](resource/README.md)
-  * [Web前端资源](resource/Web前端.md) 
-  * [CSS代码片段](resource/CSS代码片段.md)
-  * [JS代码片段](resource/JS代码片段.md)
-  * [HBuilder](resource/HBuilder.md)
-* [后端资源](resource2/README.md)
-  * [JAVA代码片段](resource2/java.md)
-* [科学上网](other/README.md)
-  * [为什么要科学上网](other/why.md)
-  * [现在比较流行的方式](other/how.md)
-    * [Hosts](other/hosts.md)
-    * [Shadowsocks](other/shadowsocks.md)
+[所有已发布的 GitBooks](https://www.gitbook.com/@mrleo)
 
-****
+
+
 
 > GitBook 使用 GFM（markdown） 语法进行书写,不会的自行百度或参考下方链接。
-
-- markdown 语法教程：[https://www.zybuluo.com/techird/note/46064](https://www.zybuluo.com/techird/note/46064)
-- markdown 认识与入门：[http://sspai.com/25137](http://sspai.com/25137)
+> - markdown 语法教程：[https://www.zybuluo.com/techird/note/46064](https://www.zybuluo.com/techird/note/46064)
+> - markdown 认识与入门：[http://sspai.com/25137](http://sspai.com/25137)
