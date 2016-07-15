@@ -2,6 +2,8 @@
 
 参考：[http://sass-guidelin.es/zh/#section-53](http://sass-guidelin.es/zh/#section-53)
 
+[下载Sass文件结构示例](sass.zip)
+
 ### Base 文件夹
 
 > `base/`文件夹存放项目中的模板文件。在这里，可以找到重置文件、排版规范文件或者一个样式表——定义一些 HTML 元素公认的标准样式（我喜欢命名为_base.scss）。
@@ -66,6 +68,8 @@
 
 @import 'vendors/bootstrap';
 @import 'vendors/jquery-ui';
+@import 'vendors-extensions/bootstrap';
+@import 'vendors-extensions/jquery-ui';
 
 @import 'base/reset';
 @import 'base/typography';
@@ -106,7 +110,9 @@
 
 @import
   'vendors/bootstrap',
-  'vendors/jquery-ui';
+  'vendors/jquery-ui',
+  'vendors-extensions/bootstrap',
+  'vendors-extensions/jquery-ui';
 
 @import
   'base/reset',
