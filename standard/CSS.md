@@ -19,7 +19,7 @@
 
 ## 命名
 
-就变量、函数和混合宏的命名而言，我们坚持一些很 *CSS-y* 的风格：**小写连字符分隔**，有意义的命名。
+就变量、函数和混合宏的命名而言，我们坚持一些很 *CSS-y* 的风格：**小写连字符分隔**，有意义的命名。`组件`命名参考[BEM原则](http://www.w3cplus.com/css/bem-definitions.html)
 ```scss
 $vertical-rhythm-baseline: 1.5rem;
 
@@ -31,7 +31,7 @@ $vertical-rhythm-baseline: 1.5rem;
   // ...
 }
 ```
-建议使用全大写方式书写常量
+`常量`建议使用全大写方式书写
 ```scss
 // Yep
 $CSS_POSITIONS: (top, right, bottom, left, center);
@@ -39,6 +39,32 @@ $CSS_POSITIONS: (top, right, bottom, left, center);
 // Nope
 $css-positions: (top, right, bottom, left, center);
 ```
+
+`组件`命名应该遵循[`BEM原则`](http://www.w3cplus.com/css/bem-definitions.html)：`块（Block）`、`元素（Element）`、`修饰符（Modifier）` 
+
+![示例图片1](http://cdn.w3cplus.com/cdn/farfuture/SjMOzHw07la3xkBreWf6gZtxX_2u-jE7FkAAvU-7CVw/mtime:1421035089/sites/default/files/styles/print_image/public/blogs/2013/Definitions-BEM-7.jpg)
+
+![示例图片2](http://images2015.cnblogs.com/blog/642545/201607/642545-20160713170532404-1397761839.png)
+
+**块** 是一个独立的实体，既可以是简单的也可以是复合的（包含其他块）。块使用顶级类名*(多个单词的长名称使用`一个连字符(-)`连接)*
+```SCSS
+//组件块
+.menu-tabs{}
+```
+
+**元素** 是块的一部分，具有某种功能。元素是依赖上下文的：它们只有处于他们应该属于的块的上下文中时才是有意义的。使用`两个下划线(__)`来分隔块名和元素名
+```scss
+//构成 .menu-tabs 的一个子元素
+.menu-tabs__tab1{}
+```
+
+**修饰符** 作为一个块或是一个元素的一种属性，代表这个块或这个元素在外观或是行为上的改变。使用`两个连字符(--)`来分隔块名（或元素名）和修饰符名
+```scss
+//.menu-tabs__tab1 的某个不同状态或版本
+.menu-tabs__tab1--active{}
+```
+
+
 
 
 

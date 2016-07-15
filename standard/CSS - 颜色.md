@@ -20,6 +20,16 @@
 .foo {
   color: #FF0000;
 }
+
+// Yep
+.foo {
+  color: #ebc;
+}
+
+// Nope
+.foo {
+  color: #eebbcc;
+}
 ```
 使用 HSL 值或者 RGB 值，通常在逗号 (,)后面追加一个空格，而不在前后括号 ((, )) 和值之间添加空格。
 ```scss
