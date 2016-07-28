@@ -17,6 +17,35 @@
 
 
 
+## CSS的权重
+1. 通配选择符的权值 0,0,0,0
+2. 标签的权值为 0,0,0,1
+3. 类的权值为 0,0,1,0
+4. 属性选择的权值为  0,0,1,0
+5. 伪类选择的权值为 0,0,1,0
+6. 伪对象选择的权值为 0,0,0,1
+7. ID的权值为 0,1,0,0
+8. important的权值为最高 1,0,0,0
+
+> 比较同一级别的个数，数量多的优先级高，如果相同即比较下一级别的个数。
+> **important > 内联 > ID > 类 > 标签 | 伪类 | 属性选择 > 伪对象 >  通配符 > 继承**
+
+- [256个class类名选择器干掉一个id选择器实例](http://www.zhangxinxu.com/study/201208/256-class-fire-an-id.html) ~所有的类名(classes)都是以**8字节字符串**存储的，8字节所能hold的最大值就是255，超过势必会越过其边缘~
+- [CSS选择器的 **效率** 从高到低](https://developer.mozilla.org/en-US/docs/CSS/Writing_Efficient_CSS?redirectlocale=en-US&redirectslug=Writing_Efficient_CSS)：
+  1. id选择器（#myid）
+  2. 类选择器（.myclassname）
+  3. 标签选择器（div,h1,p）
+  4. 相邻选择器（h1+p）
+  5. 子选择器（ul < li）
+  6. 后代选择器（li a）
+  7. 通配符选择器（*）
+  8. 属性选择器（a[rel="external"]）
+  9. 伪类选择器（a:hover,li:nth-child）
+
+
+
+
+
 ## 命名
 
 就变量、函数和混合宏的命名而言，我们坚持一些很 *CSS-y* 的风格：**小写连字符分隔**，有意义的命名。`组件`命名参考[BEM原则](http://www.w3cplus.com/css/bem-definitions.html)
