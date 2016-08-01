@@ -134,7 +134,7 @@ line-height: 22px\9; /* for ie */
 ```
 
 - [全部浏览器的兼容代码生成](http://www.colorzilla.com/gradient-editor/ )
-[CSS 实现 textArea 的 placeholder 换行](http://segmentfault.com/a/1190000000362621)
+  [CSS 实现 textArea 的 placeholder 换行](http://segmentfault.com/a/1190000000362621)
 
 - 阻止默认事件
 
@@ -342,3 +342,37 @@ user-select:none;
       
 }
 ```
+
+- [flexbox](https://isux.tencent.com/flexbox.html)
+
+```css
+.flex-cont{
+  /*定义为flexbox的“父元素”*/
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  /*子元素沿主轴对齐方式居中*/
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  /*子元素沿侧轴对齐方式垂直居中*/
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  /*指定主轴的伸缩流方向是纵向的*/
+  -webkit-box-orient:vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+}
+.flex-item{
+  /*不要给flexbox里的子元素设置“margin:auto”的属性，在部分安卓机下，它会导致该元素的宽度撑开到100%占位*/
+  /*在旧版的规范中，使用比例伸缩布局时，子元素的内容长短不同会导致无法“等分”，这个时候，我们需要给子元素设置一个“width:0%”来解决问题*/
+  width: 0%;
+  /*给“子元素”赋予自由伸缩的能力*/
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  flex:1;
+}
+```
+
