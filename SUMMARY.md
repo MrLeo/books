@@ -35,4 +35,6 @@
   * [现在比较流行的方式](other/how.md)
   * [Hosts](other/hosts.md)
   * [Shadowsocks](other/shadowsocks.md)
+* 其他
+  * [ngrok](other/ngrok.md)
 
