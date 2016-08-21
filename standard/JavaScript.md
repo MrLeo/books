@@ -1,10 +1,6 @@
 # web前端规范-JavaScript
 
-标签： 荣智汇通,开发,web前端,javascript
-
----
-
-# javascript 注释
+## javascript 注释
 
 > [HBuilder官方文档](http://ask.dcloud.net.cn/article/129)
 

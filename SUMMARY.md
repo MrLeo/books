@@ -25,10 +25,12 @@
 * [前端资源](resource/README.md)
   * [Web前端资源](resource/Web前端.md)
   * [CSS代码片段](resource/CSS代码片段.md)
-    * [开关样式](resource/switch.md)
+        * [开关样式](resource/switch.md)
   * [JS代码片段](resource/JS代码片段.md)
   * [HBuilder](resource/HBuilder.md)
   * [H5+CSS5学习](resource/H5+CSS3.md)
+  * 调试
+      * [控制台](resource/console.md)
 * [后端资源](resource2/README.md)
   * [JAVA代码片段](resource2/java.md)
 * [科学上网](other/README.md)
