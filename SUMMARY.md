@@ -61,11 +61,11 @@
 * 开发工具
     * [Apache](tools/Apache.md)
     * [WebStorm](tools/WebStorm.md)
+    * [ngrok](tools/ngrok.md)
 * [科学上网](GFW/README.md)
   * [为什么要科学上网](GFW/why.md)
   * [现在比较流行的方式](GFW/how.md)
   * [Hosts](GFW/hosts.md)
   * [Shadowsocks](GFW/shadowsocks.md)
-* 其他
-  * [ngrok](other/ngrok.md)
+* [其他](other)
 
