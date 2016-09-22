@@ -15,6 +15,7 @@ npm run build
 
 以下是SPA项目常用的几种部署方式:
 *例如前端路由地址:[http://localhost/live/292/wonderful](http://localhost/live/292/wonderful)*
+
 ## Apache
 如果只使用Apache做HTTP服务器，可以设置Apache的url重定向，将所有的请求路由到index.html
 1. 打开`~\Apache\conf\httpd.conf`文件
@@ -25,6 +26,7 @@ RewriteEngine on
 # 当访问路由地址为 /live 开头的，则将路由重定向到 /index.html
 RewriteRule \/live.*$ /index.html
 ```
+
 ## nginx
 使用nginx做反向代理服务器，配置文件参考：
 ```
