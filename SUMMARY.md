@@ -33,11 +33,39 @@
       * [控制台](resource/console.md)
 * [后端资源](resource2/README.md)
   * [JAVA代码片段](resource2/java.md)
-* [科学上网](other/README.md)
-  * [为什么要科学上网](other/why.md)
-  * [现在比较流行的方式](other/how.md)
-  * [Hosts](other/hosts.md)
-  * [Shadowsocks](other/shadowsocks.md)
+* 代码备忘录
+    * CSS
+        * [全局样式](codes/CSS/global.md)
+        * [flex](codes/CSS/flex.md)
+        * [清除浮动-clearfix](codes/CSS/clearfix.css.md)
+    * HTML
+        * [HTML模板](codes/HTML/HTML Template.html.md)
+        * [小技巧](codes/HTML/小技巧.md)
+    * JavaScript
+        * [$(window).ready()](codes/JavaScript/window.ready.md)
+        * [console](codes/JavaScript/console.md)
+        * [动态计算REM](codes/JavaScript/动态计算REM.javascript.md)
+    * Vue.js
+        * [Vue + Webpack 实践](codes/Vue/Vue + Webpack 实践.md)
+        * [run build](codes/Vue/run_build.md)
+        * [run dev](codes/Vue/run_dev.md)
+        * [组件](codes/Vue/组件.md)
+        * [vue-resource](codes/Vue/vue-resource.md)
+        * [vue-router](codes/Vue/vue-router.md)
+        * [vuex](codes/Vue/vuex.md)
+        * [webpack配置信息说明](codes/Vue/webpack配置信息说明.md)
+        * [如何在 vue 项目里正确地引用 jquery 和 jquery-ui的插件](codes/Vue/如何在 vue 项目里正确地引用 jquery 和 jquery-ui的插件.md)
+        * [填坑](codes/Vue/错误收集.md)
+    * NPM
+        * [切换淘宝源](C:/Users/lxbin/Documents/WWW/books/codes/NPM/切换淘宝源.md)
+* 开发工具
+    * [Apache](tools/Apache.md)
+    * [WebStorm](tools/WebStorm.md)
+* [科学上网](GFW/README.md)
+  * [为什么要科学上网](GFW/why.md)
+  * [现在比较流行的方式](GFW/how.md)
+  * [Hosts](GFW/hosts.md)
+  * [Shadowsocks](GFW/shadowsocks.md)
 * 其他
   * [ngrok](other/ngrok.md)
 
