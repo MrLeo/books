@@ -1,4 +1,4 @@
-# [Vue](http://cn.vuejs.org/) + [Webpack](http://webpack.github.io/) 实践
+# Vue全家桶
 
 ## 参考
 - [vue-tutorial](https://github.com/MeCKodo/vue-tutorial)
