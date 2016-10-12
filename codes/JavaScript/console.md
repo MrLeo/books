@@ -1,3 +1,5 @@
+[http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html](http://www.cnblogs.com/Wayou/p/chrome-console-tips-and-tricks.html)
+
 # 显示信息的命令
 ```html
 <!DOCTYPE html>
