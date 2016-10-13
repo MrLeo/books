@@ -1,5 +1,5 @@
-[GitBook地址](https://mrleo.gitbooks.io/books/content)
-[GitHub源码地址](https://github.com/MrLeo/books)
+[GitBook地址](https://mrleo.gitbooks.io/books/content/codes/Vue/)
+[GitHub源码地址](https://github.com/MrLeo/books/tree/master/codes/Vue)
 - - - 
 # Demo
 - [Vue 单页视频 Demo](https://github.com/MrLeo/vue-demo)
