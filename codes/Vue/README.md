@@ -2,6 +2,7 @@
 
 [GitHub源码地址](https://github.com/MrLeo/books/tree/master/codes/Vue)
 
+[segmentfault专栏](https://segmentfault.com/blog/mr-leo)
 - - - 
 # 我的Demo
 - [Vue-视频](https://github.com/MrLeo/vue-demo)
