@@ -23,17 +23,6 @@
   * [Java](standard/java.md)
   * [数据库](standard/数据库.md)
   * [服务器部署须知](standard/项目部署须知.md)
-* [前端资源](resource/README.md)
-  * [Web前端资源](resource/Web前端.md)
-  * [CSS代码片段](resource/CSS代码片段.md)
-        * [开关样式](resource/switch.md)
-  * [JS代码片段](resource/JS代码片段.md)
-  * [HBuilder](resource/HBuilder.md)
-  * [H5+CSS5学习](resource/H5+CSS3.md)
-  * 调试
-      * [控制台](resource/console.md)
-* [后端资源](resource2/README.md)
-  * [JAVA代码片段](resource2/java.md)
 * 代码备忘录
     * CSS
         * [全局样式](codes/CSS/global.md)
@@ -43,7 +32,7 @@
         * [HTML模板](codes/HTML/HTML Template.html.md)
         * [小技巧](codes/HTML/小技巧.md)
     * JavaScript
-        * [$(window).ready()](codes/JavaScript/window.ready.md)
+        * [window.ready](codes/JavaScript/window.ready.md)
         * [console](codes/JavaScript/console.md)
         * [动态计算REM](codes/JavaScript/动态计算REM.md)
     * [Vue.js](codes/Vue/README.md)
@@ -59,6 +48,17 @@
         * [填坑](codes/Vue/错误收集.md)
     * NPM
         * [切换淘宝源](C:/Users/lxbin/Documents/WWW/books/codes/NPM/切换淘宝源.md)
+* [前端资源](resource/README.md)
+  * [Web前端资源](resource/Web前端.md)
+  * [CSS代码片段](resource/CSS代码片段.md)
+        * [开关样式](resource/switch.md)
+  * [JS代码片段](resource/JS代码片段.md)
+  * [HBuilder](resource/HBuilder.md)
+  * [H5+CSS5学习](resource/H5+CSS3.md)
+  * 调试
+      * [控制台](resource/console.md)
+* [后端资源](resource2/README.md)
+  * [JAVA代码片段](resource2/java.md)
 * 开发工具
     * [Apache](tools/Apache.md)
     * [WebStorm](tools/WebStorm.md)
