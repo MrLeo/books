@@ -4,8 +4,8 @@
 - [vue-tutorial](https://github.com/MeCKodo/vue-tutorial)
 - [Vue+Webpack开发可复用的单页面富应用教程](https://www.talkingcoder.com/article/6310756346094488391)
 - [Vue+Webpack使用规范](https://www.talkingcoder.com/article/6309726065044556372)
-[对比其他框架](http://cn.vuejs.org/guide/comparison.html)
 
+[对比其他框架](http://cn.vuejs.org/guide/comparison.html)
 
 推荐代码使用 CommonJS 或 ES6 模块，然后使用 [Webpack](http://webpack.github.io/) 或 [Browserify](http://browserify.org/) 打包。
 

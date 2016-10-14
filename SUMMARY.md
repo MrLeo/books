@@ -45,7 +45,7 @@
     * JavaScript
         * [$(window).ready()](codes/JavaScript/window.ready.md)
         * [console](codes/JavaScript/console.md)
-        * [动态计算REM](codes/JavaScript/动态计算REM.javascript.md)
+        * [动态计算REM](codes/JavaScript/动态计算REM.md)
     * [Vue.js](codes/Vue/README.md)
         * [Vue + Webpack 实践](codes/Vue/Vue + Webpack 实践.md)
         * [run build](codes/Vue/run_build.md)
