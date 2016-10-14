@@ -24,6 +24,10 @@
 - [vuex 1](https://github.com/vuejs/vuex)
 - [vuex 2](http://vuex.vuejs.org/en/index.html)
 
+# 社区
+- [Vue.js专业中文社区](http://vue-js.com/)
+- [Vue Forum](http://forum.vuejs.org/)
+
 # Vue 常用组件推荐
 - [vue-touch:触屏手势](https://github.com/vuejs/vue-touch)
 - [vue-lazyload:延迟加载](https://github.com/hilongjw/vue-lazyload)
@@ -39,12 +43,8 @@
 - [element - 饿了么 Desktop UI elements for Vue.js 2.0](https://github.com/ElemeFE/element)
 - [vue样式表css组件化-cssobj](https://github.com/cssobj/cssobj)
 
-# 教程
+# 教程推荐
 - [Vue.js——60分钟快速入门](http://www.cnblogs.com/keepfool/p/5619070.html)
-
-# 社区
-- [Vue.js专业中文社区](http://vue-js.com/)
-- [Vue Forum](http://forum.vuejs.org/)
 
 > 更多内容:
 > [https://github.com/jsfront/src/blob/master/vuejs.md](https://github.com/jsfront/src/blob/master/vuejs.md)
