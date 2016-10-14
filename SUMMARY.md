@@ -1,6 +1,7 @@
 # Summary
 
 * [博客园地址](http:/www.cnblogs.com/blog-leo)
+* [segmentfault专栏](https://segmentfault.com/blog/mr-leo)
 * [GitHub地址](https://github.com/MrLeo)
 * [说明](README.md)
 * [规范](standard/README.md)
