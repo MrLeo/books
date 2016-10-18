@@ -45,7 +45,8 @@
 - [vue样式表css组件化-cssobj](https://github.com/cssobj/cssobj)
 
 # 教程推荐
-- [Vue.js——60分钟快速入门](http://www.cnblogs.com/keepfool/p/5619070.html)
+- [Vue.js - 60分钟快速入门](http://www.cnblogs.com/keepfool/p/5619070.html)
+- [视频教程](https://github.com/bhnddowinf/vuejs-learn)
 
 > 更多内容:
 > [https://github.com/jsfront/src/blob/master/vuejs.md](https://github.com/jsfront/src/blob/master/vuejs.md)
