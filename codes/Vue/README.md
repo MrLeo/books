@@ -11,6 +11,8 @@
 # 其他Demo
 - [vue-wechat](https://github.com/useryangtao/vue-wechat)
 - [留言板](https://github.com/kenberkeley/vue-demo)
+- [HackerNews](https://github.com/vuejs/vue-hackernews)
+- [HackerNews-2.0](https://github.com/vuejs/vue-hackernews-2.0)
 
 - - - - -
 # Vue相关资料
