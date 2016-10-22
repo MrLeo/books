@@ -7,6 +7,7 @@
 # 我的Demo
 - [Vue-视频](https://github.com/MrLeo/vue-demo)
 - [Vue-IM](https://github.com/MrLeo/vue-im-demo)
+- [vue2.0 demo](https://github.com/MrLeo/vue2-demo)
 
 # 其他Demo
 - [vue-wechat](https://github.com/useryangtao/vue-wechat)
