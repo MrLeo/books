@@ -13,6 +13,7 @@
 - [留言板](https://github.com/kenberkeley/vue-demo)
 - [HackerNews](https://github.com/vuejs/vue-hackernews)
 - [HackerNews-2.0](https://github.com/vuejs/vue-hackernews-2.0)
+- [vue-memory-game](https://github.com/leftstick/vue-memory-game)
 
 - - - - -
 # Vue相关资料

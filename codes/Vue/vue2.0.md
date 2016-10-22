@@ -160,6 +160,24 @@ new Vue({
   }
 })
 ```
+### [过滤器](http://vuefe.cn/guide/migration.html#过滤器)
+##### orderBy 
+```html
+<p v-for="user in orderedUsers">{{ user.name }}</p>
+```
+```js
+computed: {
+  orderedUsers: function () {
+    return _.orderBy(this.users, 'name')
+    //甚至可以字段排序：
+    _.orderBy(this.users, ['name', 'last_login'], ['asc', 'desc'])
+  }
+}
+```
+1.0写法:
+```html
+<p v-for="user in users | orderBy 'name'">{{ user.name }}</p>
+```
 
 
 
