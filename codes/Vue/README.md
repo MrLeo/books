@@ -34,10 +34,12 @@
 - [Vue Forum](http://forum.vuejs.org/)
 
 # Vue 常用组件推荐
+- [Vue-Video-Player:Video/Live player for Vue.js(1.x ~ 2.x) ](https://github.com/surmon-china/vue-video-player)
 - [vue-touch:触屏手势](https://github.com/vuejs/vue-touch)
 - [vue-lazyload:延迟加载](https://github.com/hilongjw/vue-lazyload)
 - [vue-timeago:将日期转化为'3 hours ago'形式](https://github.com/egoist/vue-timeago)
 - [vue-swipe:幻灯片/轮播图](https://github.com/ElemeFE/vue-swipe)
+- [Vue-Awesome-Swiper:Swiper(slide) component for Vue.js(1.x ~ 2.x) ](https://github.com/surmon-china/vue-awesome-swiper)
 - [vue-fullpage:触摸全屏滚动](https://github.com/wendaosanshou/vue-fullpage)
 - [vue-infinite-scroll:无限滚动](https://github.com/ElemeFE/vue-infinite-scroll)
 - [mint-loadmore:下拉加载和上拉加载](https://github.com/mint-ui/mint-loadmore)
