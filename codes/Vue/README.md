@@ -52,7 +52,8 @@
 
 # 教程推荐
 - [Vue.js - 60分钟快速入门](http://www.cnblogs.com/keepfool/p/5619070.html)
-- [视频教程](https://github.com/bhnddowinf/vuejs-learn)
+- [台湾小凡vue1.0视频教程](https://github.com/bhnddowinf/vuejs-learn)
+- [vue2.0官网讲解](https://github.com/bhnddowinf/vuejs2-learn)
 
 > 更多内容:
 > [https://github.com/jsfront/src/blob/master/vuejs.md](https://github.com/jsfront/src/blob/master/vuejs.md)
