@@ -59,6 +59,7 @@ build: {
 ### 修改 webpack.prod.conf.js
 打开`~\build\webpack.prod.conf.js`，在`plugins`下找到`new HtmlWebpackPlugin`，在其后面添加对应的多页，并为每个页面添加`Chunk`配置
 > `HtmlWebpackPlugin` 中的 `filename` 引用的是 config/index.js 中对应的 `build`
+
 ```js
 plugins: [
     // 多页:index.html → app.js
