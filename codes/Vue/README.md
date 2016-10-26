@@ -21,6 +21,7 @@
 - [Vue1.0官网](http://cn.vuejs.org/)
 - [Vue2.0官网](http://vuejs.org/)
 - [Vue2.0 - 中文翻译](http://vuefe.cn/)
+- [Vue2.0 - 双语网站](http://vue.sike.io/)
 - [vue-cli 脚手架](https://github.com/vuejs/vue-cli)
 - [vue-loader](http://vue-loader.vuejs.org/en/index.html)
 - [vue-router 1.0](https://github.com/vuejs/vue-router/tree/1.0/docs)
