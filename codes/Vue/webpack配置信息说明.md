@@ -59,8 +59,10 @@ var path = require('path');
 // NodeJS中的Path对象，用于处理目录的对象，提高开发效率。
 // 模块导入
 module.exports = {
-    // 入口文件地址，不需要写完，会自动查找
-    entry: './src/main',
+    // 入口文件地址
+    entry: {
+        app: './src/main.js'
+    },
     // 输出
     output: {
         path: path.join(__dirname, './dist'),

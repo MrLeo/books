@@ -8,7 +8,7 @@ npm run build
 # 修改build生成的静态文件路径
 进入`~\config\index.js`
 在`build`下的`assetsPublicPath`默认情况下是`'/'`，此时打包的index.html文件中的资源文件(js、css、img)默认情况都是以`/`开头的绝对路径，指向http服务器的根路径
-如果想修改为相对路径则需要将`assetsPublicPath`的值修改为`'./'`，这样就是指向index.html的相对路径了
+> 如果想修改为相对路径或服务器中静态资源路径有调整，则需要将`assetsPublicPath`的值修改为`'./'`或其他服务器路径，这样就是指向index.html的相对路径了
 
 # 部署SPA
 > 将打包生成好的项目部署到服务器，但是访问SPA项目的前端路由会出现`404`，这是由于HTTP服务器默认情况下访问的是对应目录下的index.html，此时需要对HTTP服务器做下路由映射，将前端路由地址映射到index.html。
