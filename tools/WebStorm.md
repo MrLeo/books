@@ -4,6 +4,7 @@
 - `ctrl + alt + T` 围绕包裹代码(包括zencoding的Wrap with Abbreviation)
 - `ctrl + [/]` 匹配 {}[]
 - `ctrl + shift + ]/[` 选中块代码
+- `ctrl + q` JSDoc文档预览
 - `ctrl + shift + i` 显示当前CSS选择器或者JS函数的详细信息
 - `Shift+F6` 重构-重命名
 - `Alt+~`vcs操作
