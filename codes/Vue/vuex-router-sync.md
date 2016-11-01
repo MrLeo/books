@@ -1,14 +1,13 @@
 
-问题：vuex-router-sync，干嘛用的？
+> 问题：vuex-router-sync，干嘛用的？
 
-https://github.com/vuejs/vuex-router-sync
+[https://github.com/vuejs/vuex-router-sync](https://github.com/vuejs/vuex-router-sync)
 Effortlessly keep vue-router and vuex store in sync.
 
 在 尤大写的 hacknews-2.0 中
+[https://github.com/vuejs/vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0)
 
-https://github.com/vuejs/vue-hackernews-2.0
-
----------- (1) 怎么 import ? 
+> 怎么 import ? 
 
 https://github.com/vuejs/vue-hackernews-2.0/blob/master/src/app.js
 import Vue from 'vue'
@@ -18,12 +17,11 @@ import router from './router'
 import { sync } from 'vuex-router-sync'
 import * as filters from './filters'
 
+> (2) 下例 vue檔案，使用此插件的 demo。
 
----------- (2) 下例 vue檔案，使用此插件的 demo。
 https://github.com/vuejs/vue-hackernews-2.0/blob/master/src/components/ItemList.vue
 48:       displayedPage: isInitialRender ? Number(this.$store.state.route.params.page) || 1 : -1,
 55:       return Number(this.$store.state.route.params.page) || 1
-
 
 https://github.com/vuejs/vue-hackernews-2.0/blob/master/src/views/ItemView.vue
 36:     ids: [store.state.route.params.id]
@@ -31,9 +29,7 @@ https://github.com/vuejs/vue-hackernews-2.0/blob/master/src/views/ItemView.vue
 https://github.com/vuejs/vue-hackernews-2.0/blob/master/src/views/UserView.vue
 24:     id: store.state.route.params.id
 
-
----------- (3)vuex-router-sync 语法解释
-
+> vuex-router-sync 语法解释
 
 How does it work?
 
