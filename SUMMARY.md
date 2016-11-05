@@ -21,7 +21,6 @@
          * [小技巧](codes/HTML/小技巧.md)
      * JavaScript
          * [window.ready](codes/JavaScript/window.ready.md)
-         * [console](codes/JavaScript/console.md)
          * [动态计算REM](codes/JavaScript/动态计算REM.md)
      * [Vue.js](codes/Vue/README.md)
          * [vue 2.0](codes/Vue/vue2.0.md)
