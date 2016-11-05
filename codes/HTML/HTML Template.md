@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="zh-CN">
 
@@ -32,3 +33,4 @@
     </body>
 
 </html>
+```

@@ -15,9 +15,9 @@
      * CSS
          * [全局样式](codes/CSS/global.md)
          * [flex](codes/CSS/flex.md)
-         * [清除浮动-clearfix](codes/CSS/clearfix.css.md)
+         * [清除浮动-clearfix](codes/CSS/clearfix.md)
      * HTML
-         * [HTML模板](codes/HTML/HTML Template.html.md)
+         * [HTML模板](codes/HTML/HTML Template.md)
          * [小技巧](codes/HTML/小技巧.md)
      * JavaScript
          * [window.ready](codes/JavaScript/window.ready.md)
