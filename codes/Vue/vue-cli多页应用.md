@@ -111,4 +111,7 @@ plugins: [
 
 
 > **参考:**
-> [小凡哥视频 - 讲解 vuejs2 ，使用 vue-cli 怎么搭起 多页应用](http://www.bilibili.com/video/av6805317/)
+> [小凡哥视频 - 讲解 vuejs2 ，使用 vue-cli 怎么搭起 多页应用](https://github.com/bhnddowinf/vuejs2-learn)
+>
+> 另一种方式，使用node的globa模块:
+> [https://github.com/jarvan4dev/vue-multi-page](https://github.com/jarvan4dev/vue-multi-page)
