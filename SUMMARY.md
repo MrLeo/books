@@ -43,6 +43,7 @@
 
 * 开发工具
      * [Apache](tools/Apache.md)
+     * [Nginx](tools/nginx.md)
      * [Caddy](tools/caddy.md)
      * [WebStorm](tools/WebStorm.md)
      * [ngrok](tools/ngrok.md)

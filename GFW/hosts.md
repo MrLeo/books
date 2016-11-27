@@ -18,6 +18,7 @@
 - **Linux** : 定位到/etc，取得hosts读写权限，然后修改保存。
 
 
+### hosts切换工具 [SwitchHosts](http://oldj.github.io/SwitchHosts/)
 
 
 ### hosts 获取地址

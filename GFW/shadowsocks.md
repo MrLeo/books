@@ -8,7 +8,9 @@ Shadowsocks 是一种安全的 socks5 代理，可以保护你的上网流量。
 
 - - - - -
 
-### [`绿色便携单文件客户端`](https://github.com/shadowsocks/shadowsocks-windows/releases)
+### [`官方客户端`](https://github.com/shadowsocks/shadowsocks-windows/releases)
+
+### [第三方客户端:shadowsocksR](https://github.com/breakwa11/shadowsocks-rss)
 ![](../_image/gfw/2016-06-27 14-27-48.jpg)
 
 ### 免费Shadowsocks账号获取地址
