@@ -1,5 +1,5 @@
 
-# 指定淘宝 npm 源
+# 临时指定淘宝 npm 源
 ```js
 $ npm i node-sass@3.8.0 --registry=https://registry.npm.taobao.org
 ```
