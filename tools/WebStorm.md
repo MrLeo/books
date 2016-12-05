@@ -2,6 +2,7 @@
 - [WebStorm快捷键](WebStorm快捷键.md)
 - [WebStorm模板](WebStorm模板.md)
 - [WebStorm配置ES6支持](WebStorm-ES6.md)
+- [WebStorm自定义标签](WebStorm-Customer-tag.md)
 
 
 
