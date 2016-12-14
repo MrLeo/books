@@ -1,3 +1,9 @@
+
+# [使用Flexible实现手淘H5页面的终端适配](http://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
+
+[https://github.com/amfe/lib-flexible](https://github.com/amfe/lib-flexible)
+
+# 动态计算 rem 基准大小
 ```js
 /**
  * 动态计算 rem 基准大小
