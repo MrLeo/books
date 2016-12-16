@@ -27,6 +27,7 @@ title: Git
 - **[master](https://segmentfault.com/a/1190000002918123#articleHeader12)**`正式发布历史分支`（1个蓝色）。没有什么东西，仅是一些关联的tag，因从不在master上开发。
 
 > SourceTree中的Git工作流
+> 
 > ![](./_image/2016-12-16-14-31-16.jpg)
 > ![](./_image/2016-12-16-14-32-38.jpg)
 
