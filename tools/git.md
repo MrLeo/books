@@ -26,6 +26,12 @@ title: Git
 - **[hotfix](https://segmentfault.com/a/1190000002918123#articleHeader15)**`线上维护分支`（同一时间1个、红色）。总是基于master，并最后合并到master和develop。生命周期较短，用了修复bug或小粒度修改发布。
 - **[master](https://segmentfault.com/a/1190000002918123#articleHeader12)**`正式发布历史分支`（1个蓝色）。没有什么东西，仅是一些关联的tag，因从不在master上开发。
 
+> SourceTree中的Git工作流
+> ![](./_image/2016-12-16-14-31-16.jpg)
+> ![](./_image/2016-12-16-14-32-38.jpg)
+
+
+
 ***
 
 # 参考:
