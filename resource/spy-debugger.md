@@ -6,6 +6,8 @@
 - 手动执行 JS 命令行
 - 自定义插件
 
+> **与[spy-debugger](https://github.com/wuchangming/spy-debugger)类似的还有[whistle](https://github.com/avwo/whistle)**
+
 # [spy-debugger](https://github.com/wuchangming/spy-debugger)
 > 一站式页面调试、抓包工具。远程调试任何手机浏览器页面，任何手机移动端webview（如：微信，HybirdApp等）HTTP/HTTPS
 
@@ -17,8 +19,9 @@
 6. 可以配合其它代理工具一起使用(默认使用AnyProxy) (设置外部代理)
 
 **截图**
-![](https://github.com/wuchangming/spy-debugger/raw/master/demo/img/demo.png)
-![](https://github.com/wuchangming/spy-debugger/raw/master/demo/img/AnyProxy.jpg)
+![](https://raw.githubusercontent.com/wuchangming/spy-debugger/master/demo/img/demo.png)
+![](https://raw.githubusercontent.com/wuchangming/spy-debugger/master/demo/img/AnyProxy.png)
+
 
 # [Livepool](http://rehorn.github.io/livepool/)
 > LivePool 是一个基于 NodeJS，类似 Fiddler 支持抓包和本地替换的 Web 开发调试工具，是 Tencent AlloyTeam 在开发实践过程总结出的一套的便捷的 WorkFlow 以及调试方案。
