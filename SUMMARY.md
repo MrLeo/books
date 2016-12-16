@@ -48,6 +48,7 @@
      * [Caddy](tools/caddy.md)
      * [WebStorm](tools/WebStorm.md)
      * [ngrok](tools/ngrok.md)
+     * [Git](tools/git.md)
 
 * [前端资源](resource/README.md)
      * [Web前端资源](resource/Web前端.md)
