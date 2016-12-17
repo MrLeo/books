@@ -40,7 +40,7 @@
 
 * 调试
      * [控制台](resource/console.md)
-     * [真机联调](resource/spy-debugger.md)
+     * [真机联调](resource/debugger.md)
 
 * 开发工具
      * [Apache](tools/Apache.md)
