@@ -5,11 +5,13 @@
 [segmentfault专栏](https://segmentfault.com/blog/mr-leo)
 - - - 
 # 我的Demo
-- [Vue-视频](https://github.com/MrLeo/vue-demo)
+
 - [Vue-IM](https://github.com/MrLeo/vue-im-demo)
 - [vue2.0 demo](https://github.com/MrLeo/vue2-demo)
+- [Vue-视频](https://github.com/MrLeo/vue-demo)
 
 # 其他Demo
+
 - [vue-wechat](https://github.com/useryangtao/vue-wechat)
 - [留言板](https://github.com/kenberkeley/vue-demo)
 - [HackerNews](https://github.com/vuejs/vue-hackernews)
@@ -18,23 +20,22 @@
 
 - - - - -
 # Vue相关资料
-- [Vue1.0官网](http://cn.vuejs.org/)
-- [Vue2.0官网](http://vuejs.org/)
-- [Vue2.0 - 中文翻译](http://vuefe.cn/)
-- [Vue2.0 - 双语网站](http://vue.sike.io/)
+
+- [Vue 官网](http://cn.vuejs.org/)
+- [Vue 中文翻译](http://vuefe.cn/)
+- [Vue 双语网站](http://vue.sike.io/)
 - [vue-cli 脚手架](https://github.com/vuejs/vue-cli)
 - [vue-loader](http://vue-loader.vuejs.org/en/index.html)
-- [vue-router 1.0](https://github.com/vuejs/vue-router/tree/1.0/docs)
-- [vue-router 2.0](http://router.vuejs.org/zh-cn/index.html)
-- [vue-resource](https://github.com/vuejs/vue-resource/tree/master/docs)
-- [vuex 1](https://github.com/vuejs/vuex)
-- [vuex 2](http://vuex.vuejs.org/en/index.html)
+- [vue-router](https://github.com/vuejs/vue-router)
+- [vuex](https://github.com/vuejs/vuex)
 
 # 社区
+
 - [Vue.js专业中文社区](http://vue-js.com/)
 - [Vue Forum](http://forum.vuejs.org/)
 
-# Vue 常用组件推荐
+# [Vue 常用组件推荐](https://github.com/vuejs/awesome-vue#libraries--plugins)
+
 - [Vue-Video-Player:Video/Live player for Vue.js(1.x ~ 2.x) ](https://github.com/surmon-china/vue-video-player)
 - [vue-touch:触屏手势](https://github.com/vuejs/vue-touch)
 - [vue-lazyload:延迟加载](https://github.com/hilongjw/vue-lazyload)
@@ -52,9 +53,25 @@
 - [vue样式表css组件化-cssobj](https://github.com/cssobj/cssobj)
 
 # 教程推荐
+
 - [Vue.js - 60分钟快速入门](http://www.cnblogs.com/keepfool/p/5619070.html)
 - [台湾小凡vue1.0视频教程](https://github.com/bhnddowinf/vuejs-learn)
 - [vue2.0官网讲解](https://github.com/bhnddowinf/vuejs2-learn)
+
+# 哪些项目公司正在使用vue
+
+- UC浏览器
+    - <http://nba.uc.cn>
+    - <http://qiqu.uc.cn>
+    - <http://2014.uc.cn>
+- [稀土掘金](https://gold.xitu.io/)
+- [饿了么](https://github.com/ElemeFE/element)
+- [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/)
+- B站
+    - [兴趣圈](http://www.im9.com/index.html)
+    - [直播](http://live.bilibili.com/)
+    - [周边商城](http://bmall.bilibili.com/)
+- ...
 
 > 更多内容:
 > [https://github.com/jsfront/src/blob/master/vuejs.md](https://github.com/jsfront/src/blob/master/vuejs.md)
