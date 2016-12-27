@@ -75,3 +75,4 @@
 
 > 更多内容:
 > [https://github.com/jsfront/src/blob/master/vuejs.md](https://github.com/jsfront/src/blob/master/vuejs.md)
+> [React还是Vue:你该如何选择？](https://zhuanlan.zhihu.com/p/24548677)→[尤大评论](https://medium.com/@youyuxi/pretty-good-comparison-overall-but-a-few-points-id-like-to-discuss-e4f6460e75d5#.m0aw1eaua)
