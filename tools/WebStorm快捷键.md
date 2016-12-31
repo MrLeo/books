@@ -1,5 +1,6 @@
 
 # 快捷键
+
 - 双击`Shift`全局搜索
 - `ctrl + alt + T` 围绕包裹代码(包括zencoding的Wrap with Abbreviation)
 - `ctrl + [/]` 匹配 {}[]
@@ -36,6 +37,7 @@
 - `Shift+Enter`重新开始一行（无论光标在哪个位置）
 
 ### 导航
+
 - `Esc`进入代码编辑区域
 - `Alt+F1`查找代码在其他界面模块的位置，颇为有用
 - `Ctrl+G`查找引用
@@ -48,5 +50,11 @@
 - `Ctrl+Alt+S`打开配置窗口
 - `Ctrl+Shift+A`快速查找并使用编辑器所有功能
 
-
+### Emmet
+[前端开发神器 Emmet](http://blog.wpjam.com/series/frontend-develop-tool-emmet/)
+- `w` -webkit-
+- `m` -moz-
+- `s` -ms-
+- `o` -o-
+- `lorem` 一段随机看不懂的文字，作为测试数据填充用的
 
