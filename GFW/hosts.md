@@ -5,7 +5,7 @@
 
 
 
-### 怎样修改Hosts
+## 怎样修改Hosts
 
 - **Windows** : 打开资源管理器定位到C:\windows\system32\drivers\etc\ 找到hosts文件，获得读写权限，用记事本打开并修改。
 
@@ -18,15 +18,13 @@
 - **Linux** : 定位到/etc，取得hosts读写权限，然后修改保存。
 
 
-### hosts切换工具 [SwitchHosts](http://oldj.github.io/SwitchHosts/)
+## hosts切换工具 [`SwitchHosts`](http://oldj.github.io/SwitchHosts/)
 
 
-### hosts 获取地址
+## hosts 获取地址
 
 - [YouTube、Google+、Facebook、Twitter、维基百科最全hosts](https://blog.netsh.org/posts/youtube-google-facebook-twitter-wikipedia-hosts_1199.netsh.html)
 - [racaljk.hosts](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
-
-
 
 
 ### [hosts 自动更新程序](https://github.com/ladder1984/updateHosts)
