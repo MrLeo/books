@@ -43,6 +43,7 @@
          * [如何在 vue 项目里正确地引用 jquery 和 jquery-ui的插件](codes/Vue/如何在 vue 项目里正确地引用 jquery 和 jquery-ui的插件.md)
          * [填坑](codes/Vue/错误收集.md)
      * [NPM](codes/NPM.md)
+     * [命令脚本](codes/shell/README.md)
 
 * 调试
      * [控制台](resource/console.md)
